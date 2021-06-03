@@ -1,1 +1,15 @@
-/*Not used for right now.*/
+button {
+  text-align: center;
+  margin: 50px auto 0;
+  width: 500px;
+  height: 150px;
+  color: #fff;
+  border: 5px solid #fff;
+  background: #000000;
+  font-weight: 700;
+  text-transform: uppercase;
+  outline: none;
+  cursor: pointer;
+  box-shadow: 0 0 1px rgba(0,0,0,.5);
+  transition: all .5s ease;
+}
